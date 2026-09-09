@@ -8,7 +8,7 @@ using namespace std;
 int main() {
 
     cout << R"(
-                ____  __  __    __    _  _    _  _   __  ____  _  _    ____  _  _  ____  __  ____
+             ____  __  __    __    _  _    _  _   __  ____  _  _    ____  _  _  ____  __  ____
             / ___)(  )(  )  (  )  ( \/ )  ( \/ ) / _\(_  _)/ )( \  (_  _)/ )( \(_  _)/  \(  _ \
             \___ \ )( / (_/\/ (_/\ )  /   / \/ \/    \ )(  ) __ (    )(  ) \/ (  )( (  O ))   /
             (____/(__)\____/\____/(__/    \_)(_/\_/\_/(__) \_)(_/   (__) \____/ (__) \__/(__\_) )" << endl;
@@ -18,10 +18,10 @@ int main() {
     cout << "********************************************************" << endl;
 
     cout << "Fun math facts:" << endl;
-    cout << "   *" << endl;
-    cout << "   *" << endl;
-    cout << "   *" << endl;
-    cout << "   *" << endl;
+    cout << "   *Math teachers have problems." << endl;
+    cout << "   *Math is the only subject that counts" << endl;
+    cout << "   *If it seems easy, you're doing it wrong." << endl;
+    cout << "   *It's all fun and games until someone divides by zero!" << endl;
 
     cout << "********************************************************" << endl;
 

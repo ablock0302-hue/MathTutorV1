@@ -17,7 +17,7 @@ This is a Silly Simple Math Tutor for young children.
 
 
 ## Maintainers
-[@dejohns2](https://github.com/dejohns2)  
+[@Johenderson1624](https://github.com/Johenderson1624) Joshua Henderson 
 [@princess](https://github.com/dejohns2) 
 
 
@@ -32,16 +32,26 @@ This is a Silly Simple Math Tutor for young children.
 ## Console Output Testing Example
 ```
 ***********************************************************
-      __  __       _   _       _____      _
-     |  \/  | __ _| |_| |__   |_   _|   _| |_ ___  _ __
-     | |\/| |/ _` | __| '_ \    | || | | | __/ _ \| '__|
-     | |  | | (_| | |_| | | |   | || |_| | || (_) | |
-     |_|  |_|\__,_|\__|_| |_|   |_| \__,_|\__\___/|_|
+        ____  __  __    __    _  _    _  _   __  ____  _  _    ____  _  _  ____  __  ____
+       / ___)(  )(  )  (  )  ( \/ )  ( \/ ) / _\(_  _)/ )( \  (_  _)/ )( \(_  _)/  \(  _ \
+       \___ \ )( / (_/\/ (_/\ )  /   / \/ \/    \ )(  ) __ (    )(  ) \/ (  )( (  O ))   /
+       (____/(__)\____/\____/(__/    \_)(_/\_/\_/(__) \_)(_/   (__) \____/ (__) \__/(__\_) )" << endl;
 
 ***********************************************************
 *       Welcome to the Silly Simple Math Tutor            *
 ***********************************************************
+Fun math facts:
+* Math teachers have problems.
+* Math is the only subject that counts.
+* If it seems easy, you're doing it wrong.
+* It's all fun and games until someone divides by zero!
 
+**********************************************************
+
+What is your name? Joshua,
+Welcome Joshua to the Silly Simply Math Tutor!
+What does 2 + 3 = 5
+Sorry, this is all the program does for the moment.
 ```
 
 [Back to Top](#math-tutor-v1)
