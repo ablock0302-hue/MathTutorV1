@@ -1,3 +1,7 @@
+
+
+
+
 #include <iostream>
 using namespace std;
 
@@ -12,6 +16,17 @@ int main() {
     cout << "********************************************************" << endl;
     cout << "*      Welcome to the Silly Simple Math Tutor V1       *" << endl;
     cout << "********************************************************" << endl;
+
+    cout << "Fun math facts:" << endl;
+    cout << "   *" << endl;
+    cout << "   *" << endl;
+    cout << "   *" << endl;
+    cout << "   *" << endl;
+
+    cout << "********************************************************" << endl;
+
+
+
 
     return 0;
 }
