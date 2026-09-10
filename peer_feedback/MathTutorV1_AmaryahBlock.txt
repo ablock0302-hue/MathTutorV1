@@ -1,0 +1,16 @@
+Name: Amaryah Block
+Group Member: Joshua Henderson
+Assignment: MathTutorV1
+
+Peer Review:
+
+I enjoyed working with Joshua Henderson. Both of us tended to be tired, but we powered through to do the project. 
+We split the work evenly, with Joshua doing most of the work on the ReadMe, and doing some of the work on the C++ programming, and 
+doing some final checks to the C++ code. Whereas I did a good portion of the C++ programming, and did final adjustments on the ReadMe in GitHub.
+
+There were a few times where neither of us knew what to do, so we had to go and look at the provided lectures on Canvas. 
+It will take a little bit for both of us to get used to programming in C++ so we can do it without having to look at the lectures as much. 
+I’m pretty sure as the class goes on we won’t have to rely so much on the lectures for the coding instructions.
+
+I wouldn’t mind working with Joshua Henderson again.
+
