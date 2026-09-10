@@ -18,7 +18,8 @@ This is a Silly Simple Math Tutor for young children.
 
 ## Maintainers
 [@Johenderson1624](https://github.com/Johenderson1624) Joshua Henderson 
-[@princess](https://github.com/dejohns2) 
+
+[@ablock0302_hue](https://github.com/ablock0302-hue) Amaryah Block
 
 
 ## New Concepts Used
